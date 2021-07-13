@@ -8,6 +8,12 @@ This package serves as the entry point to the DOM and server renderers for React
 npm install react react-dom
 ```
 
+or 
+```sh
+yarn add react react-dom
+```
+if you are using yarn
+
 ## Usage
 
 ### In the browser
